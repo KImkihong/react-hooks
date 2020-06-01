@@ -6,7 +6,7 @@ import MenuItem from '@material-ui/core/MenuItem';
 
 class SimpleMenu extends Component {
     constructor(){
-        super();
+        super(); 
         this.state={
             anchorEl:''
         }
