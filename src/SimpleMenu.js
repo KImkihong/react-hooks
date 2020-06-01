@@ -21,7 +21,7 @@ class SimpleMenu extends Component {
     handleClose=(e)=>{
         this.setState({
             anchorEl:''
-        })
+        });
     }
     render() {
         return (
